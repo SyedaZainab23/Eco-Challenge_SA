@@ -32,7 +32,7 @@ const MyComponent = () => {
           <table className="data-table">
             <thead>
           <tr>
-            <th>Position</th>
+            <th>SA Position</th>
             <th>ID</th>
             <th>Name</th>
           </tr>
