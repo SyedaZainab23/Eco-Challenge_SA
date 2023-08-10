@@ -1,0 +1,31 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [-123.132710, 49.290103]
+     
+    }},
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [-123.134283, 49.280705]
+      }
+    
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [-123.124196, 49.281692]
+      }
+   
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [-123.128589, 49.278388]
+      }
+  
+    }
+  ]
+}

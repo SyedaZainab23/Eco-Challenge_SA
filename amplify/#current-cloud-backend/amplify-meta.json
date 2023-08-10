@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nakatomirace-nakatomi-174340-authRole",
+      "UnauthRoleArn": "arn:aws:iam::429009223057:role/amplify-nakatomirace-nakatomi-174340-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::429009223057:role/amplify-nakatomirace-nakatomi-174340-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nakatomirace-nakatomi-174340-deployment",
+      "UnauthRoleName": "amplify-nakatomirace-nakatomi-174340-unauthRole",
+      "StackName": "amplify-nakatomirace-nakatomi-174340",
+      "StackId": "arn:aws:cloudformation:us-east-1:429009223057:stack/amplify-nakatomirace-nakatomi-174340/a48716e0-3634-11ee-8fa6-0e35fad61303",
+      "AmplifyAppId": "d22onh9t55z5x1"
+    }
+  }
+}

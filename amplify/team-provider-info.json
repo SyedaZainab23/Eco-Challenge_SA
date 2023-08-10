@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nakatomirace-dev-144809-authRole",
+      "UnauthRoleArn": "arn:aws:iam::429009223057:role/amplify-nakatomirace-dev-144809-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::429009223057:role/amplify-nakatomirace-dev-144809-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nakatomirace-dev-144809-deployment",
+      "UnauthRoleName": "amplify-nakatomirace-dev-144809-unauthRole",
+      "StackName": "amplify-nakatomirace-dev-144809",
+      "StackId": "arn:aws:cloudformation:us-east-1:429009223057:stack/amplify-nakatomirace-dev-144809/1f82e400-361c-11ee-8656-0ad99461e69d",
+      "AmplifyAppId": "dc7virx35e1xz"
+    }
+  },
+  "nakatomi": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nakatomirace-nakatomi-174340-authRole",
+      "UnauthRoleArn": "arn:aws:iam::429009223057:role/amplify-nakatomirace-nakatomi-174340-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::429009223057:role/amplify-nakatomirace-nakatomi-174340-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nakatomirace-nakatomi-174340-deployment",
+      "UnauthRoleName": "amplify-nakatomirace-nakatomi-174340-unauthRole",
+      "StackName": "amplify-nakatomirace-nakatomi-174340",
+      "StackId": "arn:aws:cloudformation:us-east-1:429009223057:stack/amplify-nakatomirace-nakatomi-174340/a48716e0-3634-11ee-8fa6-0e35fad61303",
+      "AmplifyAppId": "d22onh9t55z5x1"
+    }
+  }
+}
