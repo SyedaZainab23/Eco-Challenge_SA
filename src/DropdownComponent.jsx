@@ -129,9 +129,10 @@ const DropdownComponent = () => {
         <Map
         // See https://visgl.github.io/react-map-gl/docs/api-reference/map
         initialViewState={{
-          latitude: -45.5466,
-          longitude: -36.1595,
-          zoom: 10,
+          latitude: -49.5466,
+          longitude: -50.1595,
+          zoom: 3,
+
         }}
         
         style={{ height: "95vh", width: "45vw" }}
