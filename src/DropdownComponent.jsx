@@ -129,10 +129,11 @@ const DropdownComponent = () => {
         <Map
         // See https://visgl.github.io/react-map-gl/docs/api-reference/map
         initialViewState={{
-          latitude: -55.5466,
-          longitude: -68.1595,
-          zoom: 5,
+          latitude: -45.5466,
+          longitude: -36.1595,
+          zoom: 10,
         }}
+        
         style={{ height: "95vh", width: "45vw" }}
         mapStyle={`https://maps.geo.${region}.amazonaws.com/maps/v0/maps/${mapName}/style-descriptor`}
         {...authHelper.getMapAuthenticationOptions()}
