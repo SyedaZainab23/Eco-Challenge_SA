@@ -17,7 +17,7 @@ export default ({ locker: { latitude, longitude }, onClose }) => (
     anchor="bottom"
   >
     <>
-      <h3> On Route</h3>
+    <h3 style={{ color: 'black' }}> On Route: {latitude.toFixed(2)}, {longitude.toFixed(2)} </h3>
     </>
   </Popup>
 );
