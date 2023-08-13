@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <div className='text-container '>
-        <h6>Nakatomi presents,Cape Horn's</h6>
+        <h6>Nakatomi presents, Cape Horn's</h6>
         <h1>Eco-Challenge</h1>
         <h4>
           Worlds Toughest Race
