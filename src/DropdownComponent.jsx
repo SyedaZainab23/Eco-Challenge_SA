@@ -141,7 +141,6 @@ const DropdownComponent = () => {
       >
         {/* See https://visgl.github.io/react-map-gl/docs/api-reference/navigation-control */}
         <NavigationControl position="bottom-right" showZoom showCompass={false} />
-        console.log(lockers)
         
 
         {/* Render markers for all lockers, with a popup for the selected locker */}
